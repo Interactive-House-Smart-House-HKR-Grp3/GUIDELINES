@@ -13,7 +13,7 @@ Here is the main information regarding the architecture and organization of this
 
 ### Contributing on GitHub
 
-For the contributing rules and tips, pleas look at the **[CONTRIBUTING.md](https://github.com/Interactive-House-Smart-House-HKR-Grp3/GUIDELINES/blob/master/CONTRIBUTION.md)** guidelines.
+For the contributing rules and tips, pleas look at the **[CONTRIBUTION.md](https://github.com/Interactive-House-Smart-House-HKR-Grp3/GUIDELINES/blob/master/CONTRIBUTION.md)** guidelines.
 
 ### Artefacts
 
