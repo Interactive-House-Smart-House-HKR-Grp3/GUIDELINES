@@ -1,4 +1,4 @@
-# Contributions to the Interactive-House-Smart-House-HKR-Grp3
+# Contributions to the Software Engineering 2 - Group 3 - Smart House project
 
 The following is a set of guidelines for contributing to the Interactive-House-Smart-House-HKR-Grp3
 
