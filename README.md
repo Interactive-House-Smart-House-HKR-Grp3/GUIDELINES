@@ -17,7 +17,8 @@ For the contributing rules and tips, pleas look at the **[CONTRIBUTING.md](https
 
 ### Artefacts
 
-All artefact documents can be found at our **[Goole-Drive](https://drive.google.com/drive/folders/1Q08WBPOAQIApYp_cx7mpLQpgRz-BkZ_W?usp=sharing)** folder.
+All artefact documents can be found at our **[Google-Drive](https://drive.google.com/drive/folders/1Q08WBPOAQIApYp_cx7mpLQpgRz-BkZ_W?usp=sharing)** folder.
+
 The artefact naming rules are:
 `[Sub_Group]-[Document_Type]`
       
