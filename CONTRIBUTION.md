@@ -6,7 +6,7 @@ The following is a set of guidelines for contributing to the Interactive-House-S
 
 [Guides](#Guides)
 
-* [The seven rules of a great Git commit message](#The seven rules of a great Git commit message)
+* [The seven rules of a great Git commit message](#The-seven-rules-of-a-great-Git-commit-message)
 
 ## Guides
 
