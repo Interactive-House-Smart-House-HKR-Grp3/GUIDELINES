@@ -20,6 +20,12 @@ For the contributing rules and tips, pleas look at the **[CONTRIBUTION.md](https
 All artefact documents can be found at our **[Google-Drive](https://drive.google.com/drive/folders/1Q08WBPOAQIApYp_cx7mpLQpgRz-BkZ_W?usp=sharing)** folder.
 
 The artefact naming rules are:
-`[Sub_Group]-[Document_Type]`
-      
-      E.g `Physical_house_model-Design`
+
+Folder:
+`[Sub Group]-Artefacts`
+   
+      E.g `Physical house model-Artefacts`
+Document:
+`DocumentName`
+   
+      E.g `Design`
